@@ -1,0 +1,87 @@
+.button {
+    display: flex;
+    justify-content: space-around;
+}
+.date {
+    width: 170px;
+  }
+.delete {
+    width: 60px;
+    text-align: center;
+  }
+div {
+    padding: 10px;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-around;
+}
+.form {
+    margin: 0 auto;
+    padding: 10px;
+    line-height: 3;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.form-title {
+    color: sienna;
+    font-size: 18px;
+}
+.form-content {
+    width: 400px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.header {
+    text-align: center;
+}
+.id {
+    width: 40px;
+    text-align: center;
+}
+.legend {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: sienna;
+}
+.navbar {
+    display: flex;
+    justify-content: center;
+  }
+.navbar-default {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: maroon;
+}
+.reset {
+    color: sienna;
+    width: 300px;
+    height: 60px;
+    margin: 30px 10px;
+    padding: auto;
+    background-color: powderblue;
+    font-size: 1.8rem;
+    font-weight: 600;
+    text-align: center;
+    line-height: 60px;
+    text-decoration-line: none;
+}
+.submit {
+    color: sienna;
+    width: 300px;
+    height: 60px;
+    margin: 30px 10px;
+    padding: auto;
+    background-color: powderblue;
+    font-size: 1.8rem;
+    font-weight: 600;
+    text-align: center;
+    line-height: 60px;
+    text-decoration-line: none;
+    border:#000000 solid;
+}
+
+
